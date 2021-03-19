@@ -5,3 +5,16 @@
 .grid{
     display: grid;
 }
+#clear_new{
+    background-color: navajowhite;
+    color: #000;
+    font-size: 18px;
+    padding: 10px;
+    border: 8px;
+   margin-bottom: 20px;
+}
+#clear_new:hover{
+    transition: .2s ease-in-out;
+    background-color: #000;
+    color: navajowhite;
+}
